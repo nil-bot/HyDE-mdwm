@@ -1,4 +1,4 @@
-# HyDE-mdwm
+# HyDE mdwm (multi display wallpaper manager)
 A script designed to address one of my personal biggest annoyances with the HyDE project: the inability to set a separate wallpaper per display.
 
 ## Features
